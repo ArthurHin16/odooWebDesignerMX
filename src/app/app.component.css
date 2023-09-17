@@ -1,0 +1,197 @@
+/* FIRST SECTION */
+.rounded-bottom-right {
+    border-radius: 10px 10px 80px 10px;
+}
+
+.first-part {
+    margin-top: 200px;
+    padding-left: 200px;
+}
+
+.second-part {
+    padding-top: 40px;
+    padding-left: 20px;
+    margin-bottom: 100px;
+}
+
+.video-container {
+    position: relative;
+    display: inline-block;
+}
+
+.play-button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 5px;
+}
+
+/*SECOND SECTION*/
+.second-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sec-second-section {
+    padding-left: 200px;
+}
+
+/*THIRD SECTION*/
+.third-section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.third-first-section {
+    margin-top: 100px;
+    padding-left: 200px;
+}
+
+.third-second-section {
+    padding-left: 40px;
+}
+
+/*FOURTH SECTION*/
+.fourth-second-section {
+    margin-top: 120px;
+    padding-left: 40px;
+}
+
+/*FIFTH SECTION*/
+.fifth-section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.fifth-first-section {
+    margin-top: 100px;
+    padding-left: 200px;
+}
+
+.fifth-second-section {
+    padding-left: 40px;
+}
+
+/*SIXTH SECTION*/
+.card-sixth-bg {
+    height: 250px;
+    background-color: #151247;
+    border-radius: 0px 50px 0px 50px;
+}
+
+.partOne-sixth {
+    padding-top: 90px;
+    padding-left: 60px;
+}
+
+.partTwo-sixth {
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+/*SEVENTH SECTION*/
+.seventh-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.header-seventh {
+    margin-left: 200px;
+}
+
+.cards-container {
+    margin-left: 180px;
+}
+
+/* Styles for cards*/
+.card-down {
+    margin-top: 50px;
+}
+
+.image-card {
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.card-item {
+    cursor: pointer;
+    margin-right: 20px;
+    height: 300px;
+}
+
+.card-item:hover {
+    background-color: #f0f0f0;
+    transition: background-color 0.3s ease;
+}
+
+.learn-more-button {
+    background: none;
+    border: none;
+    color: #151247;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: inherit;
+}
+
+/*Acordion component*/
+.accordion {
+    list-style: none;
+    padding: 0;
+
+}
+
+.accordion-table {
+    padding-left: 200px;
+}
+
+.accordion-table-right {
+    padding-right: 200px;
+}
+
+.accordion li {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.accordion p {
+    margin: 0;
+    padding: 10px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.accordion .content {
+    display: none;
+    padding: 10px;
+}
+
+.accordion li.active .content {
+    display: block;
+}
+
+
+/*Start project*/
+.start-project {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.btns-container {
+    margin-top: 20px;
+}
+
+/*footer*/
+.footer {
+    background-color: #151247;
+    height: 200px;
+}
+
+.footer-titles {
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.footer-btns {
+    padding-top: 50px;
+    padding-left: 200px;
+}
